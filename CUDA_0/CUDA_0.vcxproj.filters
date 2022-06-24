@@ -15,6 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <CudaCompile Include="device_query.cu">
+      <Filter>源文件</Filter>
+    </CudaCompile>
     <CudaCompile Include="test_cuda.cu">
       <Filter>源文件</Filter>
     </CudaCompile>
