@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUDA_0", "CUDA_0\CUDA_0.vcxproj", "{BBA8B89D-4D21-4669-95DA-323CB208711E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUDA_Ch4_Parallel", "CUDA_Ch4_Parallel\CUDA_Ch4_Parallel.vcxproj", "{FEE42EAB-E45C-4DC6-8FFC-BED0DD58C44B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{BBA8B89D-4D21-4669-95DA-323CB208711E}.Release|x64.Build.0 = Release|x64
 		{BBA8B89D-4D21-4669-95DA-323CB208711E}.Release|x86.ActiveCfg = Release|Win32
 		{BBA8B89D-4D21-4669-95DA-323CB208711E}.Release|x86.Build.0 = Release|Win32
+		{FEE42EAB-E45C-4DC6-8FFC-BED0DD58C44B}.Debug|x64.ActiveCfg = Debug|x64
+		{FEE42EAB-E45C-4DC6-8FFC-BED0DD58C44B}.Debug|x64.Build.0 = Debug|x64
+		{FEE42EAB-E45C-4DC6-8FFC-BED0DD58C44B}.Debug|x86.ActiveCfg = Debug|Win32
+		{FEE42EAB-E45C-4DC6-8FFC-BED0DD58C44B}.Debug|x86.Build.0 = Debug|Win32
+		{FEE42EAB-E45C-4DC6-8FFC-BED0DD58C44B}.Release|x64.ActiveCfg = Release|x64
+		{FEE42EAB-E45C-4DC6-8FFC-BED0DD58C44B}.Release|x64.Build.0 = Release|x64
+		{FEE42EAB-E45C-4DC6-8FFC-BED0DD58C44B}.Release|x86.ActiveCfg = Release|Win32
+		{FEE42EAB-E45C-4DC6-8FFC-BED0DD58C44B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
