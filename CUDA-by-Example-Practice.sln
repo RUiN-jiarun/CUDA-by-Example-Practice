@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUDA_Ch6_Constant_Memory", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUDA_Ch7_Texture_Memory", "CUDA_Ch7_Texture_Memory\CUDA_Ch7_Texture_Memory.vcxproj", "{1D6B99F6-2365-4CDB-B913-EED8B2CE1272}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUDA_Ch8_GLUT", "CUDA_Ch8_GLUT\CUDA_Ch8_GLUT.vcxproj", "{18BE3ED6-8BE9-43F1-A774-7A0D600FA8F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{1D6B99F6-2365-4CDB-B913-EED8B2CE1272}.Release|x64.Build.0 = Release|x64
 		{1D6B99F6-2365-4CDB-B913-EED8B2CE1272}.Release|x86.ActiveCfg = Release|Win32
 		{1D6B99F6-2365-4CDB-B913-EED8B2CE1272}.Release|x86.Build.0 = Release|Win32
+		{18BE3ED6-8BE9-43F1-A774-7A0D600FA8F8}.Debug|x64.ActiveCfg = Debug|x64
+		{18BE3ED6-8BE9-43F1-A774-7A0D600FA8F8}.Debug|x64.Build.0 = Debug|x64
+		{18BE3ED6-8BE9-43F1-A774-7A0D600FA8F8}.Debug|x86.ActiveCfg = Debug|Win32
+		{18BE3ED6-8BE9-43F1-A774-7A0D600FA8F8}.Debug|x86.Build.0 = Debug|Win32
+		{18BE3ED6-8BE9-43F1-A774-7A0D600FA8F8}.Release|x64.ActiveCfg = Release|x64
+		{18BE3ED6-8BE9-43F1-A774-7A0D600FA8F8}.Release|x64.Build.0 = Release|x64
+		{18BE3ED6-8BE9-43F1-A774-7A0D600FA8F8}.Release|x86.ActiveCfg = Release|Win32
+		{18BE3ED6-8BE9-43F1-A774-7A0D600FA8F8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
