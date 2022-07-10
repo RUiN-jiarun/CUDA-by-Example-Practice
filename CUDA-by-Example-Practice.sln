@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUDA_Ch8_GLUT", "CUDA_Ch8_G
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUDA_Ch9_Atomic", "CUDA_Ch9_Atomic\CUDA_Ch9_Atomic.vcxproj", "{0E1D5655-AB58-406F-9FCE-02E2EC7026EC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUDA_Ch10_Stream", "CUDA_Ch10_Stream\CUDA_Ch10_Stream.vcxproj", "{675CE7AD-BC02-43F0-AA8A-5C6EEA5CE53B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{0E1D5655-AB58-406F-9FCE-02E2EC7026EC}.Release|x64.Build.0 = Release|x64
 		{0E1D5655-AB58-406F-9FCE-02E2EC7026EC}.Release|x86.ActiveCfg = Release|Win32
 		{0E1D5655-AB58-406F-9FCE-02E2EC7026EC}.Release|x86.Build.0 = Release|Win32
+		{675CE7AD-BC02-43F0-AA8A-5C6EEA5CE53B}.Debug|x64.ActiveCfg = Debug|x64
+		{675CE7AD-BC02-43F0-AA8A-5C6EEA5CE53B}.Debug|x64.Build.0 = Debug|x64
+		{675CE7AD-BC02-43F0-AA8A-5C6EEA5CE53B}.Debug|x86.ActiveCfg = Debug|Win32
+		{675CE7AD-BC02-43F0-AA8A-5C6EEA5CE53B}.Debug|x86.Build.0 = Debug|Win32
+		{675CE7AD-BC02-43F0-AA8A-5C6EEA5CE53B}.Release|x64.ActiveCfg = Release|x64
+		{675CE7AD-BC02-43F0-AA8A-5C6EEA5CE53B}.Release|x64.Build.0 = Release|x64
+		{675CE7AD-BC02-43F0-AA8A-5C6EEA5CE53B}.Release|x86.ActiveCfg = Release|Win32
+		{675CE7AD-BC02-43F0-AA8A-5C6EEA5CE53B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
