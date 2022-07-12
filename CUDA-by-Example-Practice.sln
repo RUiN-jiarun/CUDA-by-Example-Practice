@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUDA_Ch9_Atomic", "CUDA_Ch9
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUDA_Ch10_Stream", "CUDA_Ch10_Stream\CUDA_Ch10_Stream.vcxproj", "{675CE7AD-BC02-43F0-AA8A-5C6EEA5CE53B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUDA_Ch11_MultiGPU", "CUDA_Ch11_Multi_GPU\CUDA_Ch11_MultiGPU.vcxproj", "{379691C7-A734-444C-881D-44838510F34A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{675CE7AD-BC02-43F0-AA8A-5C6EEA5CE53B}.Release|x64.Build.0 = Release|x64
 		{675CE7AD-BC02-43F0-AA8A-5C6EEA5CE53B}.Release|x86.ActiveCfg = Release|Win32
 		{675CE7AD-BC02-43F0-AA8A-5C6EEA5CE53B}.Release|x86.Build.0 = Release|Win32
+		{379691C7-A734-444C-881D-44838510F34A}.Debug|x64.ActiveCfg = Debug|x64
+		{379691C7-A734-444C-881D-44838510F34A}.Debug|x64.Build.0 = Debug|x64
+		{379691C7-A734-444C-881D-44838510F34A}.Debug|x86.ActiveCfg = Debug|Win32
+		{379691C7-A734-444C-881D-44838510F34A}.Debug|x86.Build.0 = Debug|Win32
+		{379691C7-A734-444C-881D-44838510F34A}.Release|x64.ActiveCfg = Release|x64
+		{379691C7-A734-444C-881D-44838510F34A}.Release|x64.Build.0 = Release|x64
+		{379691C7-A734-444C-881D-44838510F34A}.Release|x86.ActiveCfg = Release|Win32
+		{379691C7-A734-444C-881D-44838510F34A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
